@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.green-box{
+    background-color: rgb(12, 219, 150);
+    align-items: flex-start;
+    justify-content: center;
+    width: 50%;
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+}
+.header¨{
+    flex-direction: row;
+
+}
+#title{
+    font-size: xx-large;
+    font: bold;
+    flex-direction: row;
+    justify-items: center;
+    margin-left: 25em;
+   
+}
+.form-box{
+    background-color: aliceblue ;
+    width: 40%;
+    height: 60%;
+    border: 2px solid;
+    border-color: black;
+    align-items: center;
+    margin-top: 15em;
+    margin-bottom: 10em;
+    margin-right: 70em;
+    justify-items: center;
+
+}
+#box{
+    background-color: rgb(12, 219, 150) ;
+    margin-left: 9em;
+}
+#questions{
+    margin-left: 1em;
+    margin-right: 1em;
+}
