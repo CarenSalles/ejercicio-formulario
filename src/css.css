@@ -5,13 +5,16 @@ body{
     background-color: rgb(12, 219, 150);
     align-items: flex-start;
     justify-content: center;
-    width: 50%;
+    width: 60%;
     height: 70%;
     display: flex;
     flex-direction: row;
+    margin-left: 17em;
+
 }
 .header¨{
     flex-direction: row;
+    
 
 }
 #title{
@@ -19,19 +22,19 @@ body{
     font: bold;
     flex-direction: row;
     justify-items: center;
-    margin-left: 25em;
+    margin-left: 50em;
    
 }
 .form-box{
     background-color: aliceblue ;
-    width: 40%;
-    height: 60%;
+    width: 50%;
+    height: 70%;
     border: 2px solid;
     border-color: black;
     align-items: center;
-    margin-top: 15em;
-    margin-bottom: 10em;
-    margin-right: 70em;
+    margin-top: 20em;
+    margin-bottom: 30em;
+    margin-right: 115em;
     justify-items: center;
 
 }
